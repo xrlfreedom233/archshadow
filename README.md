@@ -1,4 +1,4 @@
-<h1 align="center">bwflow</h1>
+<h1 align="center">Archshadow</h1>
 
 <p align="center">
   <strong>蓝图驱动的结构化 AI 开发伴侣</strong><br>
@@ -133,7 +133,7 @@ implement
 ### 安装
 
 ```bash
-npm install -g @zj669/bwflow
+npm install -g @xrlfreedom/archshadow
 ```
 
 确认 CLI 可用：
